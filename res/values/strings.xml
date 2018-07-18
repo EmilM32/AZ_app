@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apzumi</string>
+    <string name="rep_name">Nazwa repozytorium:</string>
+    <string name="user_name">Nazwa użytkownika:</string>
+    <string name="description">Opis:</string>
+    <string name="text_sorting">Sortuj alfabetycznie repozytoria</string>
+</resources>
