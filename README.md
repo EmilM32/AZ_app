@@ -14,7 +14,7 @@ Every element on the list which is from <b>Bitbucket API is hightlighted</b> (yo
    `implementation 'com.squareup.picasso:picasso:2.71828'` <br>
   
    Then usage looks like this:<br>
-   `Picasso.get().load("http://i.imgur.com/DvpvklR.png").into(imageView);`<br><br>
+   `Picasso.get().load("url_to_your_images").into(imageView);`<br><br>
    I use this library to download avatars from APIs.<br>
    
    For more information about Picasso click [HERE](http://square.github.io/picasso/)<br><br>
