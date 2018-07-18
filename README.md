@@ -5,7 +5,7 @@ Every element on the list which is from <b>Bitbucket API is hightlighted</b> (yo
 <b>Sorting</b>: you can sort list by repository name - use checkbox on MainActivity<br><br>
 <b>App can check if there is any Internet connection</b>, if not you'll see dialog with information about this.<br>
 
-## Lilibraries:
+## Libraries:
 <ul>
   <li>Picasso</li>
 </ul>
