@@ -3,7 +3,7 @@ This app <b>get data from Github and Bitbucket API</b> and shows it in ListView 
 You can also <b>click on ListView element and go to second activity</b> which is "personal page" for every user (with extra repository description from api).<br> 
 Every element on the list which is from <b>Bitbucket API is hightlighted</b> (you can see it on screenshots).<br>
 <b>Sorting</b>: you can sort list by repository name - use checkbox on MainActivity<br><br>
-<b>App can check if there is any Internet connection</b>, if not you'll see dialog with information about this.<br>
+<b>App can check if there is any Internet connection</b>, if not you'll see dialog with information about that.<br>
 
 ## Libraries:
 <ul>
